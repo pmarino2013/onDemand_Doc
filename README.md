@@ -1,3 +1,62 @@
+## Sistema de versiones (Git)
+
+### Definición
+
+Git es un sistema de control de versiones distribuido libre y de código abierto diseñado para manejar todo, desde proyectos pequeños hasta muy grandes, con velocidad y eficiencia.
+
+- Terminal de comandos
+  - Comandos básicos de Linux
+  - Instalar Git
+  - Iniciar repositorio local
+  - Configurar Git
+  - Trabajar con versiones
+- Comandos básicos
+  - Estado de los cambios (status)
+  - Agregar cambios a staging (add)
+  - Aceptar cambios (commit)
+  - Visualización de cambios
+    - log
+    - show
+    - diff
+  - Eliminar archivos (rm)
+  - Moverse entre commits (checkout)
+  - Volver a un estado específico (reset)
+- Trabajar con Ramas
+  - Crear rama (Branch)
+  - Moverse entre ramas (checkout)
+  - Fusionar ramas (merge)
+  - Historial de ramas
+- Tags
+  - Colocar tags
+  - Ver tags
+  - Borrar tags
+- Extras
+  - Stashed
+  - rebase
+  - Cherry Pick
+  - reflog
+
+## Github
+
+- ¿Qué es Github?
+- Instalación y conociendo el entorno.
+- Crear primer repositorio
+- ¿Qué es README.md y para qué sirve?
+- Comandos básicos
+  - Push
+  - Pull
+- Comandos intermedios
+  - Cambiar url del repositorio `git remote set-url`
+  - Enviar un tag de Git`git push origin --tags`
+  - Borrar tag en github `git tag -d`
+- Trabajo colaborativo
+  - Clonar proyecto
+  - Fork a un proyecto
+  - Agregar colaboradores
+  - Pull request
+  - Cargar issues
+  - Resolviendo conflictos
+
 ## Frameworks
 
 ### VueJS
