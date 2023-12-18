@@ -7,6 +7,7 @@ Git es un sistema de control de versiones distribuido libre y de código abierto
 - Terminal de comandos
   - Comandos básicos de Linux
   - Instalar Git
+    - Documentación: [Instalación en diferentes S.O](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
   - Iniciar repositorio local
   - Configurar Git
   - Trabajar con versiones
